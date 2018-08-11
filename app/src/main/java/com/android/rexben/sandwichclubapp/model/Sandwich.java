@@ -1,4 +1,4 @@
-package com.udacity.sandwichclub.model;
+package com.android.rexben.sandwichclubapp.model;
 
 import java.util.List;
 
